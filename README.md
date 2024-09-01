@@ -1,11 +1,12 @@
 # Personal Website Template
 
 ## Overview
-This template is designed for CIOL (Computational Intelligence and Operations Lab) members to showcase their work, achievements, and publications. It provides an easy-to-navigate, responsive platform for sharing your professional profile, news, updates, and research. This website template is developed by [*Azmine Toushik Wasi*](https://azminewasi.github.io/).
+This single page website template is designed for CIOL (Computational Intelligence and Operations Lab) members to showcase their work, achievements, and publications. It provides an easy-to-navigate, responsive platform for sharing your professional profile, news, updates, and research. This website template is developed by [*Azmine Toushik Wasi*](https://azminewasi.github.io/).
 
 A live version of the site can be visible at : [rafia-islam.github.io](https://rafia-islam.github.io/)
 
 ## Sections
+All changes can be done in `index.html` file, as it is a light-weight single page website. For design and colors, change in `css\main.css` file. Images and fonts can be changed in the `resources` folder.
 
 ### 1. **Header**
 - **Description**: Displays the member's name, a professional title or role, and a brief tagline.
