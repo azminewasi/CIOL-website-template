@@ -1,0 +1,215 @@
+
+@font-face {
+    font-family: "CalistoMT";
+    src: url("../resources/font/CalistoMT.woff") format("woff");
+  }
+
+  header {
+    font-family:"CalistoMT";
+    background-color: #181f25;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  .profile-image {
+    width: 100px; /* Adjust size as needed */
+    height: 100px; /* Adjust size as needed */
+    border-radius: 50%; /* Makes the image circular */
+    margin-right: 20px; /* Space between image and text */
+  }
+  
+  .header-info {
+    color: #fff9e6;
+  }
+  
+  .header-info h1 {
+    margin: 0;
+    font-size: 2em;
+    color: #fff9e6;
+  }
+  
+  .header-info p {
+    margin: 0;
+    font-size: 1.2em;
+    color: #fff9e6;
+  }
+  
+
+  body {
+    font-family: "CalistoMT";
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #242424;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+  }
+  
+  header, footer {
+    width: 100%;
+    background-color: #242424;
+    color: #fff;
+    box-sizing: border-box; /* Ensure padding and borders are included in the element's total width and height */
+  }
+  
+  header {
+    padding: 20px;
+  }
+  
+  footer {
+    padding: 4px;
+    text-align: center;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    max-width: 60%; /* Default width for large screens */
+    margin: auto;
+    box-sizing: border-box;
+  }
+  
+  .profile-image {
+    width: 100px; /* Adjust size as needed */
+    height: 100px; /* Adjust size as needed */
+    border-radius: 50%; /* Makes the image circular */
+    margin-right: 20px; /* Space between image and text */
+  }
+  
+  .container {
+    max-width: 60%; /* Default width for large screens */
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  @media (max-width: 1200px) {
+    .container {
+      max-width: 80%; /* Width for medium screens */
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      max-width: 90%; /* Width for small screens (mobile) */
+      padding: 0 10px; /* Add some padding for better readability on mobile */
+    }
+  }
+  
+  
+/* Header content responsiveness */
+.header-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 100%;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.profile-image {
+  width: 80px; /* Adjust for smaller screens */
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+.header-info h1 {
+  font-size: 1.8em;
+}
+
+.header-info p {
+  font-size: 1.1em;
+}
+
+/* Make the layout responsive */
+@media (min-width: 768px) {
+  .header-content {
+    flex-direction: row;
+    text-align: left;
+    max-width: 60%;
+  }
+
+  .profile-image {
+    width: 100px;
+    height: 100px;
+  }
+
+  .header-info h1 {
+    font-size: 2em;
+  }
+
+  .header-info p {
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 15px;
+  }
+  .header-info p {
+    max-width: 90%;
+  }
+  .header-info h1 {
+    max-width: 90%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1, h2, h3{
+  color: #242424;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.content-section {
+  margin-bottom: 30px;
+}
+footer {
+  background-color: #242424;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  margin-top: 30px;
+}
+a {
+  color: #065a92;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: #024069;
+  font-weight: bold;
+}
+
+
+p {
+  line-height: 1.45;
+}
