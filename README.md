@@ -36,4 +36,4 @@ The website uses a responsive layout, ensuring it looks great on all screen size
 - **Color Scheme**: Change colors for backgrounds, fonts, and buttons by editing the `color` and `background-color` properties in the CSS.
 
 ## Credits
-This website template was developed by [**Azmine Toushik Wasi**](https://azminewasi.github.io/) for use by [CIOL](https://ciol-sust.github.io/)  members. Non-CIOL members are also welcome to use it  When **using or modifying** this template, you ***MUST*** provide credit to Wasi and [*this repository*](https://github.com/azminewasi/ciol-personal-website-template) for the original design and development, linking this page.
+This website template was developed by [**Azmine Toushik Wasi**](https://azminewasi.github.io/) for use by [CIOL](https://ciol-sust.github.io/)  members. Non-CIOL members are also welcome to use it  When **using or modifying** this template, you ***MUST*** provide credit to Wasi and [*this repository*](https://github.com/azminewasi/ciol-website-template) for the original design and development, linking this page.
