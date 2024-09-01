@@ -1,7 +1,7 @@
-# CIOL Member's Personal Website Template
+# Personal Website Template
 
 ## Overview
-This template is designed for CIOL (Computational Intelligence and Operations Lab) members to showcase their work, achievements, and publications. It provides an easy-to-navigate, responsive platform for sharing your professional profile, news, updates, and research.
+This template is designed for CIOL (Computational Intelligence and Operations Lab) members to showcase their work, achievements, and publications. It provides an easy-to-navigate, responsive platform for sharing your professional profile, news, updates, and research. This website template is developed by [*Azmine Toushik Wasi*](https://azminewasi.github.io/).
 
 A live version of the site can be visible at : [rafia-islam.github.io](https://rafia-islam.github.io/)
 
